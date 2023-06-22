@@ -43,6 +43,6 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](https:
 
 ## Contact
 
-Your Name - [@username](https://twitter.com/username) - email@example.com
+Your Name - [@rawezh97]() - dbms3226@gmail.com
 
 Project Link: [https://github.com/username/repo](https://github.com/username/repo)
